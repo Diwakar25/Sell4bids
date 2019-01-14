@@ -1,0 +1,6 @@
+framework module Pods_Sell4Bids {
+  umbrella header "Pods-Sell4Bids-umbrella.h"
+
+  export *
+  module * { export * }
+}

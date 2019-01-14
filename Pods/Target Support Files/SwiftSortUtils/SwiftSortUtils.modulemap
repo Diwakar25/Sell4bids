@@ -1,0 +1,6 @@
+framework module SwiftSortUtils {
+  umbrella header "SwiftSortUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}
